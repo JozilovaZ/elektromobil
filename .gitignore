@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vscode/
+
+# PyCharm namunasi (loyihaga tegishli emas)
+main.py
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Muhit o'zgaruvchilari
+.env
+.env.*
+!.env.example
